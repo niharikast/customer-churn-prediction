@@ -68,11 +68,16 @@ customer-churn-prediction/
 ```bash
 git clone https://github.com/niharikast/customer-churn-prediction.git
 cd customer-churn-prediction
+```
 
 ### 2. Install dependencies
+bash
+Copy code
 pip install -r requirements.txt
 
 ### 3. Run Streamlit
+bash
+Copy code
 streamlit run app.py
 
 ### 4. Explore the app
